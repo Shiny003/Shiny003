@@ -1,1 +1,2 @@
-yeah I do C# stuff.
+I know C#, and JS
+meegagoogoo
