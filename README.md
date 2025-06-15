@@ -1,4 +1,4 @@
-<div style="display: block; margin-bottom: 20px;">
+<div style="margin-bottom: 40px;">
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -13,7 +13,7 @@
   </picture>
 </div>
 
-<div style="display: block; margin-bottom: 40px;">
+<div style="margin-bottom: 40px;">
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -28,4 +28,4 @@
   </picture>
 </div>
 
-<p style="font-size: 1.2em; margin-top: 20px;">Wait I'm goated</p>
+<p style="font-size: 1.2em; margin-top: 40px;">Wait I'm goated</p>
